@@ -1,0 +1,20 @@
+**Title**
+>ISSUE#07 - fixed controller butto
+
+**Message**
+
+>This PR updates the management script to use new button gameObjects
+>
+>---
+>
+>**Testing**
+>
+>Load scripts into unity project and test by pressing trackpad. New buttons should appear.
+>
+>---
+>
+>**Deployment steps**
+>
+>Ensure steamVR plugin is loaded. Copy scripts to main project assets folder.
+>
+>
