@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/bigdoods/BIM-VR-Toolkit.png?label=ready&title=Ready)](https://waffle.io/bigdoods/BIM-VR-Toolkit)
 > #### BIM VR Toolkit - Building Information Modelling Virtual Reality Toolkit
 
 > A collection of useful scripts and prefabs for BIM VR projects in Unity 5.
