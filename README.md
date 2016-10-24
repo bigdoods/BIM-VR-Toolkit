@@ -12,7 +12,7 @@
 
 This repo has been set up by the internal team working at [freeform3d] with its core purpose to setup a framework to enable better team development workflows for creating content for VR platforms.
 
-We use a [gitflow] workflow to seperate control over scene editing, version control and to access other tools in the git ecosystem for developers. This workflow is useful to centralise, track and version code development helping us to manage our projects by helping us to structure, store code etc.
+We use a [git] workflow to seperate control over scene editing, version control and to access other tools in the git ecosystem for developers. This workflow is useful to centralise, track and version code development helping us to manage our projects by helping us to structure, store code etc.
 
 We hope that this toolbox would become a place of reference for people developing unity VR for the construction industry and a resource for getting started.
 
@@ -54,7 +54,7 @@ We would really like to receive contributions to the project. Please follow guid
 
 *Complete commit template to keep commit descriptions and project progress easy to follow for others.
 
-*Use features belong to an IDE like [documentX by Innovasys] to markup your code. These tools enables intellisense to pick up suggestions by other code editors and helps other developers pick up and work with your code.
+*Consider using an IDE like [documentX by Innovasys] to markup your code. These tools enables intellisense to pick up suggestions by other code editors and helps other developers pick up and work with your code.
 
 
 ## Licence
@@ -62,7 +62,7 @@ This code is released under the MIT licence.
 
 [SteamVR Plugin]: https://www.assetstore.unity3d.com/en/#!/content/32647
 [freeform3d]: http://www.freeform3d.co.uk/
-[gitflow]: https://guides.github.com/introduction/flow/
+[git]: https://guides.github.com/introduction/flow/
 [VRTK]: https://github.com/thestonefox/VRTK
 [desktop]: https://desktop.github.com/
 [REF]: http://www.glenstevens.ca/unity3d-best-practices/
