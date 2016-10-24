@@ -1,0 +1,85 @@
+Immerseum VR Simulator End-User Licensing Agreement
+
+PARTIES TO THE AGREEMENT/THE SUBJECT MATTER OF THE AGREEMENT:
+1.1. This Immerseum VR Simulator End User License Agreement (hereinafter referred to as “EULA”) is a non-exclusive, legally binding end user license agreement between any individual or a single entity (“END-USER”) that acquires the VR Simulator from (i) Immerseum Inc. (“Licensor” or "Immerseum"), or as the case may be (ii) any third party (“Provider”) that distributes the VR Simulator under suitable license on behalf of Immerseum Inc. This EULA is therefore a non-exclusive, legally binding end user license agreement as the case may be between either (i) Immerseum and END-User (in which case the term "Licensor" shall refer to Immerseum), or (ii) Provider and End User (in which case the term "Licensor" shall still refer to Immerseum).
+
+1.2. By installing, copying, accessing, downloading or otherwise using the VR Simulator, End User agrees to be bound the provisions of this EULA. All definitions of the Terms shall also apply in this EULA unless the context clearly provides for a different understanding.
+
+1.3. The subject matter of this EULA is the licensing to END-USER of the VR Simulator acquired by End User from the Immerseum web site. The VR Simulator is licensed, not sold.
+
+END-USER'S RIGHTS AND OBLIGATIONS
+2.1. END-USER may use the licensed VR Simulator only for their intended purpose.
+
+2.2. Licensor grants to the END-USER a non-exclusive, worldwide, and perpetual license to the VR Simulator to integrate it only as incorporated and embedded components of electronic games and interactive media and distribute such electronic game and interactive media. END-USERS may modify the VR Simulator. END-USER may otherwise not reproduce, distribute, sublicense, rent, lease or lend the VR Simulator. It is emphasized that the END-USERS shall not be entitled to distribute or transfer in any way (including, without, limitation by way of sublicense) the VR Simulator in any other way than as integrated components of electronic games and interactive media. Without limitation of the foregoing it is emphasized that END-USER shall not be entitled to share the costs related to purchasing the VR Simulator and then let any third party that has contributed to such purchase use the VR Simulator (forum pooling).
+
+2.3. END-USER is granted a license to install and use the VR Simulator on an unlimited number of computers provided that these computers are either all (i) physically located at a single physical location ("Site") belonging to END-USER, or (ii) laptops belonging to END-USER which have been made available by END-USER to its employees that are employed at the same Site. Consequently, the VR Simulator may only be used at particular Site or on computers assigned to END-USER's employees employed at the same Site and may only be moved to another Site subject to prior written approval from Licensor.
+
+2.4. Some components of the VR Simulator (whether developed by Immerseum or third parties) may also be governed by applicable open source software licenses. In the event of a conflict between the applicable EULA and any such open source licenses, the open source software licenses shall prevail with respect to those components.
+
+LICENSOR’S RIGHTS AND OBLIGATIONS
+3.1. Licensor shall render support services to END-USER only in the event a special agreement to this effect has been entered into.
+
+TERMINATION
+4.1. Without prejudice to any other rights, Licensor may terminate this EULA if END-USER fails to comply with the terms and conditions of this EULA and the Terms.
+
+4.2. END-USER may terminate END-USER’s license at any time.
+
+4.3. In the event that Immerseum at its discretion or as a result of a decision made by any competent court or authority makes a refund to END-USER of the fees paid for the license of the VR Simulator, then this EULA shall terminate for such licnse.
+
+4.4. In the event that Immerseum at its discretion or as a result of a decision made by any competent court or authority makes a refund to END-USER of the fees paid for the license of the VR Simulator, then this EULA shall terminate for such license.
+
+REVERSE ENGINEERING, DECOMPILATION, AND DISASSEMBLY
+6.1. END USER may modify the VR Simulator.
+
+TRADEMARKS
+7.1. This EULA does not grant END-USER any rights in connection with any trademarks or service marks of Licensor, Provider or Licensor's other suppliers.
+
+UPGRADES AND SUPPORT
+8.1. Items identified as upgrades replace and/or supplement the licensed VR Simulator.
+
+8.2. Licensor may at its own discretion from time to time provide upgrades of the VR Simulator to END USER without requesting further payment. Irrespective hereof END-USER is only entitled to licenses to upgrades if END-USER has entered into an Upgrade Agreement with Licensor. END-USER may use the upgraded VR Simulator only in accordance with the terms of this EULA.
+
+8.3. END-USER is only entitled to support if END-USER has entered into a Support Agreement with Licensor.
+
+COPYRIGHT
+9.1. The VR Simulator is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
+
+9.2. All title and intellectual property rights in and to the VR Simulator (including but not limited to any software, images, photographs, animations, graphics, 3D graphics, video, audio, music, text, tutorials, and “applets” incorporated into the VR Simulator), the accompanying printed materials, and any copies of the VR Simulator are owned by Licensor. All rights not expressly granted are reserved by Licensor.
+
+DISCLAIMER OF WARRANTIES
+10.1. END-USER EXPRESSLY UNDERSTANDS AND AGREES THAT ITS USE OF THE VR SIMULATOR IS AT END-USER'S SOLE RISK AND THAT THE VR SIMULATOR IS PROVIDED “AS IS” AND “AS AVAILABLE” WITHOUT WARRANTY OF ANY KIND, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW. IN PARTICULAR, LICENSOR, ITS SUBSIDIARIES, HOLDING COMPANIES AND AFFILIATES, AND ITS LICENSORS DO NOT REPRESENT OR WARRANT TO END-USER THAT:
+
+(A) END-USER'S USE OF THE VR SIMULATOR WILL MEET END-USER'S REQUIREMENTS,
+
+(B) END-USER'S USE OF THE VR SIMULATOR WILL BE UNINTERRUPTED, TIMELY, SECURE OR FREE FROM ERROR,
+
+(C) ANY INFORMATION OBTAINED BY END-USER AS A RESULT OF END-USER'S USE OF THE VR SIMULATOR WILL BE ACCURATE OR RELIABLE, AND
+
+(D) THAT DEFECTS IN THE OPERATION OR FUNCTIONALITY OF ANY SOFTWARE PROVIDED TO END-USER AS PART OF THE VR SIMULATOR WILL BE CORRECTED.
+
+10.2. END-USER'S USE OF THE VR SIMULATOR IS AT END-USER'S OWN DISCRETION AND RISK AND END-USER IS SOLELY RESPONSIBLE FOR ANY DAMAGE TO END-USER'S COMPUTER SYSTEM, OR OTHER DEVICE, OR LOSS OF DATA THAT RESULTS FROM SUCH USE.
+
+10.3. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, LICENSOR FURTHER EXPRESSLY DISCLAIMS ALL WARRANTIES TERMS OR CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO ANY IMPLIED WARRANTIES TERMS AND CONDITIONS OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT, WITH RESPECT TO THE VR SIMULATOR.
+
+10.4. THE VR SIMULATOR IS NOT INTENDED FOR USE IN THE OPERATION OF NUCLEAR FACILITIES, LIFE SUPPORT SYSTEMS, EMERGENCY COMMUNICATIONS, AIRCRAFT NAVIGATION OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL SYSTEMS, OR ANY OTHER SUCH ACTIVITIES IN WHICH CASE THE FAILURE OF THE VR SIMULATOR COULD LEAD TO DEATH, PERSONAL INJURY, OR SEVERE PHYSICAL OR ENVIRONMENTAL DAMAGE.
+
+LIMITATION OF LIABILITY
+11.1. LICENSOR AND ITS SUBSIDIARIES, HOLDING COMPANIES AND OTHER AFFILIATES TOTAL LIABILITY TO END-USER FROM ALL CAUSES OF ACTION AND UNDER ALL THEORIES OF LIABILITY UNDER THESE TERMS WILL BE LIMITED TO THE AMOUNTS PAID TO END-USER BY END-USER IN THE PAST SIX MONTHS FOR THE VR SIMULATOR RELATING TO THE DISPUTE. IN NO EVENT WILL LICENSOR OR ITS SUBSIDIARIES, HOLDING COMPANIES AND OTHER AFFILIATES SHALL BE LIABLE TO END-USER FOR ANY SPECIAL, INCIDENTAL, EXEMPLARY, PUNITIVE OR CONSEQUENTIAL DAMAGES (INCLUDING LOSS OF DATA, BUSINESS, PROFITS OR ABILITY TO EXECUTE) OR FOR the cost of procuring substitute products ARISING OUT OF OR IN CONNECTION WITH THESE TERMS OR YOUR USE OF THE VR SIMULATOR DOWNLOADED OR OTHERWISE OBTAINED FROM LICENSOR, WHETHER SUCH LIABILITY ARISES FROM ANY CLAIM BASED UPON CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR OTHERWISE, AND WHETHER OR NOT LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS OR DAMAGE. THE FOREGOING LIMITATIONS WILL SURVIVE AND APPLY EVEN IF ANY LIMITED REMEDY SPECIFIED IN THIS AGREEMENT IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
+
+11.2. END-USER EXPRESSLY UNDERSTAND AND AGREE THAT LICENSOR, ITS SUBSIDIARIES, HOLDING COMPANIES AND AFFILIATES, AND ITS LICENSORS SHALL NOT BE LIABLE TO END-USER FOR ANY LOSS OR DAMAGE WHICH MAY BE INCURRED BY END-USER, INCLUDING BUT NOT LIMITED TO LOSS OR DAMAGE AS A RESULT OF:
+
+(I) ANY RELIANCE PLACED BY END-USER ON THE COMPLETENESS, ACCURACY OR EXISTENCE OF ANY ADVERTISING, OR AS A RESULT OF ANY RELATIONSHIP OR TRANSACTION BETWEEN END-USER AND LICENSOR OR ANY, DEVELOPER, ADVERTISER OR SPONSOR WHOSE ADVERTISING APPEARS IN THE VR SIMULATOR, THE IMMERSEUM WEB SITE, OR ANY IMMERSEUM APPLICATION;
+
+(II) ANY CHANGES WHICH LICENSOR MAY MAKE TO THE VR SIMULATOR, OR FOR ANY PERMANENT OR TEMPORARY CESSATION IN THE PROVISION OF THE VR SIMULATOR (OR ANY FEATURES WITHIN THE VR SIMULATOR);
+
+(III) THE DELETION OF, CORRUPTION OF, OR FAILURE TO STORE, ANY CONTENT AND OTHER COMMUNICATIONS DATA MAINTAINED OR TRANSMITTED BY OR THROUGH END-USER'S USE OF THE VR SIMULATOR;
+
+(IV) END-USER'S FAILURE TO PROVIDE IMMERSEUM WITH ACCURATE ACCOUNT INFORMATION;
+
+11.3. NOTHING IN THE TERMS EXCLUDES THE LIABILITY FOR LICENSOR, ITS SUBSIDIARIES OR AFFILIATES FOR: (I) DEATH AND PERSONAL INJURY CAUSED BY NEGLIGENCE; (II) FRAUDULENT MISREPRESENTATION; OR (III) ANY OTHER LIABILITY WHICH CANNOT BE LIMITED BY APPLICABLE LAW.
+
+EXPORT RESTRICTIONS
+12.1. The VR Simulator may be subject to laws, administrative regulations and executive orders of those authorities responsible according to any applicable laws relating to the control of imports and exports of the VR Simulator (“Export Laws”). You agree to comply with all applicable Export Laws and you shall not export or re-export directly or indirectly (including via remote access) any part of the VR Simulator to any country to which a license is required under the Export Laws without first obtaining a license.
+
+VENUE AND APPLICABLE LAW
+13.1. This EULA and END-USER's relationship with Licensor under this EULA, shall be governed by the laws of the state of New Jersey, United States without regard to its conflict of laws provisions. Notwithstanding this, END-USER agrees that Licensor shall still be allowed to apply for injunctive remedies (or an equivalent type of urgent legal relief) in any jurisdiction.

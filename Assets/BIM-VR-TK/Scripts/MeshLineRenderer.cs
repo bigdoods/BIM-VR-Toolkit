@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using System.Collections.Generic;
 
 [RequireComponent(typeof(MeshRenderer))]
@@ -14,9 +14,27 @@ public class MeshLineRenderer : MonoBehaviour {
 	void Start() {
 		ml = GetComponent<MeshFilter>().mesh;
 		}
+		
+	public Color myColor = Color.red;
 
-	public void MyMat(Color color){
-		GetComponent<Renderer>().materials[0].color = Color.red;
+	public void MyMat(){
+		GetComponent<Renderer>().materials[0].color = myColor;
+	}
+
+	public void MyMatRed(){
+		myColor = Color.red;
+	}
+
+	public void MyMatGreen(){
+		myColor = Color.green;
+	}
+
+	public void MyMatYellow(){
+		myColor = Color.yellow;
+	}
+
+	public void MyMatBlue(){
+		myColor = Color.blue;
 	}
 
 	public void setWidth(float width) {

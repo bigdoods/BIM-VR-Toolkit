@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FACCC8A2-D4FB-82DD-E790-7FD9EE81FAB2}") = "BIM-VR-Toolkit", "Assembly-CSharp.csproj", "{94CFB56C-D4B8-9D4B-F75E-A29D31446B37}"
+EndProject
+Project("{FACCC8A2-D4FB-82DD-E790-7FD9EE81FAB2}") = "BIM-VR-Toolkit", "Assembly-CSharp-Editor.csproj", "{9A96F0CC-8CDD-A9E8-9249-C97232E6C8BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94CFB56C-D4B8-9D4B-F75E-A29D31446B37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94CFB56C-D4B8-9D4B-F75E-A29D31446B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94CFB56C-D4B8-9D4B-F75E-A29D31446B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94CFB56C-D4B8-9D4B-F75E-A29D31446B37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A96F0CC-8CDD-A9E8-9249-C97232E6C8BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A96F0CC-8CDD-A9E8-9249-C97232E6C8BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A96F0CC-8CDD-A9E8-9249-C97232E6C8BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A96F0CC-8CDD-A9E8-9249-C97232E6C8BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
