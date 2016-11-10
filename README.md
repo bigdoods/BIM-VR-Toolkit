@@ -57,6 +57,7 @@ We would really like to receive contributions to the project. Please follow guid
 
 *Consider using an IDE like [documentX by Innovasys] to markup your code. These tools enables intellisense to pick up suggestions by other code editors and helps other developers pick up and work with your code.
 
+This is an example change
 
 ## Licence
 This code is released under the MIT licence.
